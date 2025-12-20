@@ -124,10 +124,11 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **sargambarbudhhe@gmail.com**
+- 📧 Email: **sargambarbuddhe@gmail.com**
 - 💼 LinkedIn:  
   👉 https://www.linkedin.com/in/sargam-barbuddhe-244563289/
 
 ---
 
 ⭐ _If you like my work, feel free to star my repositories!_
+
