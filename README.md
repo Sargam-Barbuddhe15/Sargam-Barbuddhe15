@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sargam Barbuddhe</h1>
-<h3 align="center">B.Tech CSE (IoT) Student | IoT & Machine Learning Enthusiast</h3>
+# Hi 👋, I'm Sargam Barbuddhe
+
+💻B.Tech CSE (IoT) Student | IoT & Software Development Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sargam-barbuddhe-244563289/" target="_blank">
@@ -12,91 +13,41 @@
 
 ---
 
-## 🚀 About Me
-
+## 👨‍💻 About Me
 - 🎓 **B.Tech Computer Science (Internet of Things)** student  
   at **G.H Raisoni College of Engineering, Nagpur**
-- 💡 Passionate about **IoT, Machine Learning, and Backend Development**
+- 💡 Passionate about **IoT, Frontend and Backend Development**
 - 🔧 Strong foundation in **Java, DSA, OOP, DBMS**
 - ☁️ Hands-on experience with **AWS** and cloud-based solutions
-- 🎯 Actively seeking **internship / fresher opportunities**
+- 🎯 Actively seeking **Internship / Fresher opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
+- **Programming Languages**: Java, SQL, Javascript 
+- **Databases**: MySQL, Mongodb 
+- **Tools**: Git & GitHub, AWS, Tableau
+- **Other**: Data Structures & Algorithms
 
-### 💻 Programming Languages
-
-- Java
-- C++
-- JavaScript
-
-### 🌐 Web & Backend
-
-- HTML, CSS
-- Spring Boot
-- REST APIs
-- JDBC
-
-### 🗄️ Databases & Tools
-
-- MySQL
-- PostgreSQL
-- Git & GitHub
-- AWS
-- Tableau
 
 ---
 
 ## 📌 Featured Projects
+- 🔬 **[Student Grader](https://github.com/Sargam-Barbuddhe15/Studentgrader)**  
+  Backend-based Student Grading System using **`Java | Spring Boot | REST APIs | Maven | MySQL | JDBC`**. 
 
-### 🎓 Student Grader
+- 📊 **[Financial Planning Calculator](https://financial-planning-calculator.onrender.com/)**  
+  A web-based tool to calculate **SIP, SWP, and investment growth** with interactive **`Chart.js visualizations`**. 
 
-**Backend-based Student Grading System**
+- 🌐 **IoT Crowd Detection & Stampede Avoidance System**
+  Real-time crowd monitoring using sensors
+  Cloud-based data processing & alert system
+  Designed for public safety and crowd control
 
-- Automated student, subject, and grade management
-- RESTful APIs for seamless frontend integration
-- Modular and scalable backend design
-
-**Tech Stack:**  
-`Java | Spring Boot | REST APIs | Maven | MySQL | JDBC`
-
-🔗 GitHub Repo:  
-👉 https://github.com/Sargam-Barbuddhe15/Studentgrader
-
----
-
-### 📈 SIP + SWP Investment Calculator
-
-**Financial Planning Web Application**
-
-- Models SIP & SWP investment scenarios
-- Interactive charts for better financial visualization
-- Simple UI for non-technical users
-
-**Tech Stack:**  
-`HTML | CSS | JavaScript | Chart.js`
-
-🔗 GitHub Repo:  
-👉 https://github.com/Sargam-Barbuddhe15/Financial-Planning-Calculator  
-🌐 Live Demo:  
-👉 https://financial-planning-calculator.onrender.com
-
----
-
-### 🌐 IoT Crowd Detection & Stampede Avoidance System
-
-- Real-time crowd monitoring using sensors
-- Cloud-based data processing & alert system
-- Designed for public safety and crowd control
-
----
-
-### ⚡ Smart Underground Cable Fault Detector
-
-- IoT-enabled fault detection system
-- Sensor-based monitoring with predictive analysis
-- Improves maintenance efficiency and fault localization
+- ⚡ **Smart Underground Cable Fault Detector**
+  IoT-enabled fault detection system
+  Sensor-based monitoring with predictive analysis
+  Improves maintenance efficiency and fault localization
 
 ---
 
@@ -124,9 +75,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **sargambarbuddhe@gmail.com**
-- 💼 LinkedIn:  
-  👉 https://www.linkedin.com/in/sargam-barbuddhe-244563289/
+- 💼 [LinkedIn](https://www.linkedin.com/in/sargam-barbuddhe-244563289)
+- 🌐 [Website](https://sargam-barbuddhe.onrender.com/)
+- 📧 Email: *sargambarbuddhe@gmail.com*
 
 ---
 
